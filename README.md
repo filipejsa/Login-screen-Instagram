@@ -1,2 +1,2 @@
 # Login-screen-Instagram
-Tela de login usando HTML5 e CSS3.
+Tela de login do Instagram, usando HTML5 e CSS3.
